@@ -973,7 +973,7 @@ a {
 }
 .cid-s3p2mZvRHq {
   display: flex;
-  padding-top: 45px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #bcbec0;
 }
@@ -1072,7 +1072,7 @@ a {
   padding: 8px 14px 6px 14px;
   color: #bcbec0;
   background-color: rgba(16, 16, 16, 0.15);
-  margin-bottom: 26px;
+  margin-bottom: 10px;
 }
 .cid-s3p3QYydhz .badge.display-4 {
   font-size: 11px;
@@ -1082,10 +1082,11 @@ a {
 .cid-s3p3QYydhz .mbr-section-subtitle {
   color: #999999;
   font-weight: 600;
-  margin-bottom: 21px;
+  margin-bottom: 17px;
 }
 .cid-s3p3QYydhz .main-title {
   margin-bottom: 16px;
+  color: #404040;
 }
 .cid-s3p3QYydhz .card {
   transition: all 0.3s;
@@ -1093,9 +1094,9 @@ a {
 .cid-s3p3QYydhz .card .card-wrapper {
   background-position: center;
   border-radius: 4px;
-  padding: 10px;
+  padding: 20px;
   cursor: pointer;
-  background: #ffffff;
+  background: #f0f2f3;
   transition: all 0.3s;
   background-size: cover;
   display: flex;
@@ -1105,7 +1106,7 @@ a {
 .cid-s3p3QYydhz .card .card-wrapper .img-wrapper {
   width: auto;
   height: 87px;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 }
 .cid-s3p3QYydhz .card .card-wrapper .img-wrapper img {
   width: 100%;
@@ -1113,7 +1114,7 @@ a {
   object-fit: scale-down;
 }
 .cid-s3p3QYydhz .card .card-wrapper .card-box {
-  padding-top: 30px;
+  padding-top: 20px;
 }
 .cid-s3p3QYydhz .card .card-wrapper .card-box .card-title {
   font-weight: 600;
@@ -1172,7 +1173,7 @@ a {
   color: #404040;
 }
 .cid-s4JuK3RDIe {
-  padding-top: 60px;
+  padding-top: 45px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -1257,8 +1258,8 @@ a {
   text-align: left;
 }
 .cid-s4aPUxOcDT {
-  padding-top: 60px;
-  padding-bottom: 30px;
+  padding-top: 75px;
+  padding-bottom: 60px;
   background-color: #442c47;
 }
 .cid-s4aPUxOcDT .mbr-section-title,
@@ -1342,7 +1343,7 @@ a {
   text-align: right;
 }
 .cid-s4hplNVaAd {
-  padding-top: 60px;
+  padding-top: 40px;
   padding-bottom: 64px;
   background-color: #ffffff;
 }
@@ -1365,7 +1366,7 @@ a {
   background-color: #bcbec0;
 }
 .cid-s4hplNVaAd .mbr-iconfont {
-  font-size: 5rem;
+  font-size: 2rem;
   color: #bcbec0;
 }
 .cid-s4hplNVaAd .mbr-section-title {
@@ -1388,8 +1389,8 @@ a {
   text-align: center;
 }
 .cid-s4E6HJh9GI {
-  padding-top: 75px;
-  padding-bottom: 30px;
+  padding-top: 60px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 @media (min-width: 1500px) {
@@ -1492,14 +1493,14 @@ a {
   transform: translateX(8px) translateY(-50%);
 }
 .cid-s4E6HJh9GI .mbr-section-btn {
-  text-align: center;
+  text-align: right;
 }
 .cid-s4E6HJh9GI .mbr-section-btn .btn {
   padding: 18px 26px;
   font-weight: 600;
 }
 .cid-s4E6HJh9GI .mbr-section-btn .btn.display-4 {
-  font-size: 13px;
+  font-size: 16px;
   line-height: 1;
   letter-spacing: 0.5px;
 }
@@ -1526,6 +1527,10 @@ a {
 .cid-s4E6HJh9GI .card-box {
   color: #333333;
   text-align: left;
+}
+.cid-s4E6HJh9GI .badge,
+.cid-s4E6HJh9GI .badge_wrap {
+  text-align: center;
 }
 .cid-s3vINCTmvn {
   padding-top: 15px;
@@ -1620,7 +1625,7 @@ a {
 @media (min-width: 769px) {
   .cid-s4h7wIsYYH .form-wrapper .mbr-form .form-group,
   .cid-s4h7wIsYYH .form-wrapper .mbr-form .input-group-btn {
-    padding: 0 .5rem;
+    padding: 0 .7rem;
   }
 }
 .cid-s4h7wIsYYH .card-img {
@@ -1788,7 +1793,7 @@ a {
 @media (min-width: 576px) {
   .cid-s4h7wIsYYH .modal-dialog {
     max-width: 500px;
-    margin: 1.75rem auto;
+    margin: 2.0rem auto;
   }
   .cid-s4h7wIsYYH .modal-dialog-centered {
     min-height: calc(100% - (1.75rem * 2));
@@ -1840,7 +1845,7 @@ a {
   margin-left: -15px;
 }
 .cid-s4h7wIsYYH .col-md-4 {
-  position: relative;
+  position: center;
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
@@ -1918,7 +1923,7 @@ a {
 }
 .cid-s4bkK7wLRp .mbr-text {
   text-align: center;
-  color: #000000;
+  color: #404040;
 }
 .cid-s4bkK7wLRp .pt-0 {
   padding-top: 0 !important;
@@ -1985,7 +1990,7 @@ a {
   content: "";
 }
 .cid-s4bkK7wLRp .modal-content {
-  background: #d1d3d4;
+  background: #eff1f5;
   position: relative;
   display: flex;
   -ms-flex-direction: column;
@@ -2041,7 +2046,7 @@ a {
   width: 100%;
   margin: 0;
   text-align: center;
-  color: #000000;
+  color: #333333;
 }
 .cid-s4bkK7wLRp .modal-body {
   position: relative;
