@@ -1389,8 +1389,8 @@ a {
   text-align: center;
 }
 .cid-s4E6HJh9GI {
-  padding-top: 60px;
-  padding-bottom: 45px;
+  padding-top: 45px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 @media (min-width: 1500px) {
@@ -1411,16 +1411,16 @@ a {
 }
 .cid-s4E6HJh9GI .badge {
   display: inline-block;
-  border-radius: 10rem;
+  border-radius: 15rem;
   padding: 8px 14px 6px 14px;
   color: #bcbec0;
   background-color: rgba(132, 138, 189, 0.15);
   margin-bottom: 26px;
 }
 .cid-s4E6HJh9GI .badge.display-4 {
-  font-size: 11px;
+  font-size: 10px;
   line-height: 1.81;
-  letter-spacing: 0.5px;
+  letter-spacing: 0.9px;
 }
 .cid-s4E6HJh9GI .img-wrap {
   display: block;
@@ -1461,7 +1461,7 @@ a {
   color: #606060;
 }
 .cid-s4E6HJh9GI .card-wrapper .card-box .mbr-text.display-4 {
-  line-height: 1.75;
+  line-height: 2.0;
 }
 .cid-s4E6HJh9GI .card-wrapper .card-box .link-wrap {
   width: 100%;
@@ -1496,13 +1496,13 @@ a {
   text-align: right;
 }
 .cid-s4E6HJh9GI .mbr-section-btn .btn {
-  padding: 18px 26px;
-  font-weight: 600;
+  padding: 20px 40px;
+  font-weight: 400;
 }
 .cid-s4E6HJh9GI .mbr-section-btn .btn.display-4 {
   font-size: 16px;
   line-height: 1;
-  letter-spacing: 0.5px;
+  letter-spacing: 1.0px;
 }
 .cid-s4E6HJh9GI .mbr-section-btn .btn-secondary:hover {
   box-shadow: 0 0 0 5px rgba(60, 113, 211, 0.2) !important;
